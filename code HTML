@@ -1,0 +1,20 @@
+<html>
+    <head>
+    <title> </title>
+    <link rel="stylesheet" href="style.css">
+    <h1>Mario</h1>
+    <h2>BETA</h2>
+    </head>
+    <body>
+        <script src="script.js"></script>
+        <div class="buttons_div">
+            <button type = "button" name = "button1">
+                <b>SCORE</b>
+            </button><br><br>
+            <button type = "button" name = "button2">PLAY
+            </button><br><br>
+            <button type = "button" name = "button3">CREATOR
+            </button><br><br>
+        </div>
+    </body>
+</html>
