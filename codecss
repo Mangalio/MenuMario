@@ -1,0 +1,30 @@
+body {
+    background-color: purple;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+button {
+    size: 50px;
+    color: violet;
+    width: 250px;
+    height: 150px;
+    text-align: center;
+}
+
+.buttons_div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 400px;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+}
